@@ -1,2 +1,2 @@
-1. Open VS Code or any Python compiler.
+1. Open VS Code or any other Python compiler.
 2. Copy the Code and run it.
